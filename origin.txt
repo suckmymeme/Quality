@@ -1,0 +1,300 @@
+Uri: https://megacheats.ru/
+File Name: c:\Downloaded Web Sites\megacheats.ru\index.htm
+Content Type: text/html
+
+Uri: https://megacheats.ru/assets/images/favicon.ico
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://megacheats.ru/fonts/stylesheet.css
+File Name: c:\Downloaded Web Sites\megacheats.ru\fonts\stylesheet.css
+Content Type: text/css
+
+Uri: https://megacheats.ru/css/main.css
+File Name: c:\Downloaded Web Sites\megacheats.ru\css\main.css
+Content Type: text/css
+
+Uri: https://megacheats.ru/css/responsive.css
+File Name: c:\Downloaded Web Sites\megacheats.ru\css\responsive.css
+Content Type: text/css
+
+Uri: https://megacheats.ru/cdn-cgi/l/email-protection
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://megacheats.ru/accord.html
+File Name: c:\Downloaded Web Sites\megacheats.ru\accord.html
+Content Type: text/html
+
+Uri: https://megacheats.ru/assets/images/logo.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/best.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\best.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/main_right.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\main_right.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/func_1.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\func_1.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/func_2.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\func_2.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/func_3.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\func_3.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://megacheats.ru/js/main.js
+File Name: c:\Downloaded Web Sites\megacheats.ru\js\main.js
+Content Type: application/javascript
+
+Uri: https://megacheats.ru/fonts/ProximaNova-Regular.woff2
+File Name: c:\Downloaded Web Sites\megacheats.ru\fonts\ProximaNova-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://megacheats.ru/fonts/ProximaNova-Regular.woff
+File Name: c:\Downloaded Web Sites\megacheats.ru\fonts\ProximaNova-Regular.woff
+Content Type: font/woff
+
+Uri: https://megacheats.ru/fonts/ProximaNova-Bold.woff2
+File Name: c:\Downloaded Web Sites\megacheats.ru\fonts\ProximaNova-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://megacheats.ru/fonts/ProximaNova-Bold.woff
+File Name: c:\Downloaded Web Sites\megacheats.ru\fonts\ProximaNova-Bold.woff
+Content Type: font/woff
+
+Uri: https://megacheats.ru/fonts/ProximaNovaT-Thin.woff2
+File Name: c:\Downloaded Web Sites\megacheats.ru\fonts\ProximaNovaT-Thin.woff2
+Content Type: font/woff2
+
+Uri: https://megacheats.ru/fonts/ProximaNovaT-Thin.woff
+File Name: c:\Downloaded Web Sites\megacheats.ru\fonts\ProximaNovaT-Thin.woff
+Content Type: font/woff
+
+Uri: https://megacheats.ru/fonts/ProximaNova-Light.woff2
+File Name: c:\Downloaded Web Sites\megacheats.ru\fonts\ProximaNova-Light.woff2
+Content Type: font/woff2
+
+Uri: https://megacheats.ru/fonts/ProximaNova-Light.woff
+File Name: c:\Downloaded Web Sites\megacheats.ru\fonts\ProximaNova-Light.woff
+Content Type: font/woff
+
+Uri: https://megacheats.ru/fonts/ProximaNova-Semibold.woff2
+File Name: c:\Downloaded Web Sites\megacheats.ru\fonts\ProximaNova-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://megacheats.ru/fonts/ProximaNova-Semibold.woff
+File Name: c:\Downloaded Web Sites\megacheats.ru\fonts\ProximaNova-Semibold.woff
+Content Type: font/woff
+
+Uri: https://megacheats.ru/assets/images/page_bg.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\page_bg.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/main_bg_download.jpg
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\main_bg_download.jpg
+Content Type: image/jpeg
+
+Uri: https://megacheats.ru/assets/images/main_bg.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\main_bg.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/nav_after.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\nav_after.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/best_after.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\best_after.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/about_bg.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\about_bg.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/about_1.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\about_1.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/about_2.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\about_2.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/about_3.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\about_3.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/about_4.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\about_4.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/by_bg.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\by_bg.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/shop.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\shop.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/by_item_1.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\by_item_1.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/by_item_2.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\by_item_2.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/by_item_3.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\by_item_3.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/by_item.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\by_item.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/preim_bg.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\preim_bg.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/preim_before.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\preim_before.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/preim_after.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\preim_after.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/preim_1.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\preim_1.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/preim_2.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\preim_2.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/preim_3.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\preim_3.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/preim_4.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\preim_4.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/preim_5.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\preim_5.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/preim_6.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\preim_6.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/faq_bg.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\faq_bg.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/faq_arr.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\faq_arr.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/faq_arr_a.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\faq_arr_a.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/faq_item_bg.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\faq_item_bg.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/item_bg.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\item_bg.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/chat.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\chat.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/email.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\email.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/footer_bg.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\footer_bg.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/manual.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\manual.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/download_y.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\download_y.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/download.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\download.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/assets/images/arr.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\assets\images\arr.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/cdn-cgi/styles/cf.errors.css
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://megacheats.ru/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/cdn-cgi/images/browser-bar.png?1376755637
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/cdn-cgi/images/cf-icon-ok.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/cdn-cgi/images/cf-icon-error.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/cdn-cgi/images/cf-icon-browser.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/cdn-cgi/images/cf-icon-cloud.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/cdn-cgi/images/cf-icon-server.png
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://megacheats.ru/cdn-cgi/scripts/zepto.min.js
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\scripts\zepto.min.js
+Content Type: application/javascript
+
+Uri: https://megacheats.ru/cdn-cgi/scripts/cf.common.js
+File Name: c:\Downloaded Web Sites\megacheats.ru\cdn-cgi\scripts\cf.common.js
+Content Type: application/javascript
+
